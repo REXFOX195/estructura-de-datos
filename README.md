@@ -9,7 +9,7 @@
 
 
 ## ➤ HITO 3 
-## ➤ FUNCTIONS
+## ➤ PILAS
 - 📝 Repositorio del  [Hito 3](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%203)
 ### [LABORATORIOS](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%203/laborat)
 ### [EVALUACION PROCESUAL](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%203/procesual) 
@@ -127,7 +127,7 @@ public class PilaNumeros {
 
 
 ## ➤ HITO 4  
-##  MANEJOS DE ESTRUCTURAS DE CONTROL
+##  COLAS
 - 📝 Repositorio del  [Hito 4](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%204)
 ### [LABORATORIOS](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%204/laboratorios)
 ### [PROCESUAL](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%204/procesual) 
@@ -221,7 +221,7 @@ public class Numeros {
 }
 ```
 ## ➤ HITO 5  
-##  MANEJOS DE ESTRUCTURAS DE CONTROL
+##  PROYECTO FINAL
 - 📝 Repositorio del  [Hito 5](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%205)
 
 ## ➤ Code   
