@@ -281,5 +281,5 @@ class HomePage extends StatelessWidget {
 <h2 align='center'> Thank you⭐ </h2>
 <br>
 <p align='center'>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fflavia-elric%2Fart%2FThank-you-gif-688644716&psig=AOvVaw0yWl-uPTqiSvSqp-YPI__3&ust=1671141793422000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjYsbyO-vsCFQAAAAAdAAAAABAD" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://i.giphy.com/media/SY2hQpAMLnuxtgLT5C/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
