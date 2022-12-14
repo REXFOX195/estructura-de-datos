@@ -14,7 +14,7 @@
 ### [LABORATORIOS](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%203/laborat)
 ### [EVALUACION PROCESUAL](https://github.com/REXFOX195/estructura-de-datos/tree/master/hito%203/procesual) 
 
-## ➤ Code SQL 
+## ➤ Code  
 
 ```javascript
 public class PilaNumeros {
