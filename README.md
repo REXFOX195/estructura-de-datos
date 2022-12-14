@@ -5,7 +5,7 @@
 
 <h1 align="center"> PORTAFOLIO</h1>
 
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+![snake gif](https://acegif.com/wp-content/uploads/2022/07/pac-man-ghosts-title.gif)
 
 
 ## ➤ HITO 3 
