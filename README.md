@@ -1,6 +1,6 @@
 <h1 align="center"> PORTAFOLIO ESTRUCTURA DE DATOS  </h1>
 
-<img align="right" src="https://www.cloudsigma.com/wp-content/uploads/Feature-MariaDB-MySQL-Auto-%D0%A1lustering-with-Load-Balancing-and-Replication-for-High-Availability-and-Performance-1163x590.jpg" height="400" width="1000">
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmR5foEouUHV39XFDxycBEK5oHTUxGPAVpXw&usqp=CAU" height="400" width="1000">
 
 
 <h1 align="center"> PORTAFOLIO</h1>
